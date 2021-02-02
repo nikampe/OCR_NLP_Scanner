@@ -1,0 +1,3 @@
+To-Do:
+
+croppen plus matcher mit return True or False
